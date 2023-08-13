@@ -42,8 +42,23 @@
       "U",
       "W"
     ],
-    "positives": {},
-    "negatives": {}
+    "startDate": "april 20",
+    "endDate": "may 20",
+    "positives": {
+      "Reliability": "Taurus is dependable and trustworthy, making them great friends and colleagues. They're there for you when you need them, and you can count on them to follow through on their commitments.",
+      "Practicality": "Taurus individuals have a sensible approach to life. They're grounded and use common sense to navigate challenges, often making sound decisions.",
+      "Patience": "Taurus is renowned for their patience. They can handle setbacks calmly, which is a valuable trait in both personal and professional situations.",
+      "Determination": "Taurus sets goals and pursues them with unwavering determination. They're willing to put in the hard work necessary to achieve their desires.",
+      "Sensuality": "Taurus appreciates the physical world, enjoying sensual pleasures like good food, comfortable surroundings, and aesthetic beauty."
+    },
+    "negatives": {
+      "Stubbornness": "Taurus can be incredibly stubborn. Once they've made up their minds, it's challenging to change their opinion or course of action.",
+      "Resistance to Change": "Taurus may resist change, even if it's necessary for growth. This can lead to missed opportunities if they're not open to trying new things.",
+      "Materialism": "While valuing possessions and material comfort is not inherently negative, Taurus individuals may become overly focused on material wealth or become possessive.",
+      "Indulgence": "Their love for sensual pleasures can sometimes lead to overindulgence in food, drink, or other luxuries, potentially leading to health or financial issues.",
+      "Stagnation": "Taurus' desire for stability can occasionally lead to complacency. They might settle into routines, becoming reluctant to step outside their comfort zones."
+    },
+    "description": "Taurus is the second sign of the zodiac, symbolized by the Bull. People born between April 20 and May 20 fall under this sign. Taurus is an Earth sign, and it is ruled by Venus, the planet of love, beauty, and harmony. "
   },
   {
     "name": "Gemini",
@@ -58,10 +73,23 @@
       "Q",
       "C"
     ],
-    "startDate": "",
-    "endDate": "",
-    "positives": {},
-    "negatives": {}
+    "startDate": "may 21",
+    "endDate": "june 20",
+    "positives": {
+      "Adaptability": "Gemini is highly adaptable and can easily switch between different situations and social circles. They thrive in diverse environments and can connect with people from all walks of life.",
+      "Intellect": "Gemini is intellectually curious. They enjoy learning and exploring new ideas, making them great conversationalists and lifelong learners.",
+      "Communication": "Gemini individuals are excellent communicators. They express themselves well, and their engaging conversation style makes them popular among friends and colleagues.",
+      "Versatility": "Gemini's versatility allows them to handle multiple tasks and roles effectively. They have a diverse range of interests and can excel in various areas.",
+      "Curiosity": "Gemini's curiosity drives them to seek out new experiences and knowledge. They have an innate desire to understand the world around them."
+    },
+    "negatives": {
+      "Indecisiveness": "Gemini's ability to see multiple perspectives can lead to indecision. They may struggle to commit to a single choice, constantly weighing pros and cons.",
+      "Superficiality": "Gemini's love for variety can sometimes make them appear superficial, as they may skim the surface of various topics without delving deep into any one subject.",
+      "Restlessness": "Gemini individuals can get easily bored if not mentally stimulated. This restlessness may lead them to jump from one activity or interest to another, potentially leaving things unfinished.",
+      "Inconsistency": "Due to their duality, Geminis can be inconsistent in their behaviors and opinions. What they feel or believe one day may change the next.",
+      "Scattered Focus": "With many interests, Gemini can sometimes struggle to focus on a single task. This scattered focus might hinder their ability to see projects through to completion."
+    },
+    "description": "Gemini is the third sign of the zodiac, symbolized by the Twins. People born between May 21 and June 20 fall under this sign. Gemini is an Air sign, and it is ruled by Mercury, the planet of communication, intellect, and versatility."
   },
   {
     "name": "Cancer",
@@ -73,10 +101,23 @@
       "DD",
       "H"
     ],
-    "startDate": "",
-    "endDate": "",
-    "positives": {},
-    "negatives": {}
+    "startDate": "june 21",
+    "endDate": "july 22",
+    "positives": {
+      "Empathy": "Cancer is highly empathetic, able to understand and connect with the emotions of others. They're often compassionate and supportive friends and partners.",
+      "Nurturing": "Cancer individuals have a strong nurturing nature. They enjoy taking care of loved ones and creating a comfortable, welcoming environment at home.",
+      "Loyalty": "Cancer is fiercely loyal to their family and close friends. They prioritize strong, lasting relationships and will go to great lengths to protect and support those they care about.",
+      "Intuition": "Cancer has a strong intuitive sense, which helps them navigate emotional situations and make decisions based on their gut feelings.",
+      "Creativity": "Many Cancer individuals possess a creative streak. They can express themselves artistically, whether through visual arts, music, writing, or other forms of creative expression."
+    },
+    "negatives": {
+      "Moodiness": "Cancer individuals can be prone to mood swings. Their emotions can sometimes fluctuate, and they may need time to retreat and process their feelings.",
+      "Overprotectiveness": "While protective instincts are a positive aspect, Cancer's protectiveness can sometimes become overbearing, leading them to be overly cautious or even smothering.",
+      "Clinginess": "Cancer's strong attachment to loved ones may lead them to cling onto relationships, making it challenging for others to have personal space.",
+      "Avoidance": "When faced with conflict or difficult emotions, Cancer individuals might retreat into their shells, avoiding confrontation or suppressing their feelings, which can lead to unresolved issues.",
+      "Hesitancy": "Cancer's tendency to prioritize emotional comfort may lead them to hesitate in making tough decisions, especially if those decisions involve potential emotional upheaval."
+    },
+    "description": "Cancer is the fourth sign of the zodiac, symbolized by the Crab. People born between June 21 and July 22 fall under this sign. Cancer is a Water sign, and it is ruled by the Moon, which brings a strong connection to emotions, intuition, and nurturing qualities."
   },
   {
     "name": "Leo",
@@ -88,10 +129,23 @@
       "M",
       "TT"
     ],
-    "startDate": "",
-    "endDate": "",
-    "positives": {},
-    "negatives": {}
+    "startDate": "july 23",
+    "endDate": "august 22",
+    "positives": {
+      "Confidence": "Leo is confident and has a natural air of authority. They often have a strong presence that draws people to them.",
+      "Leadership": "Leo individuals have a natural ability to lead. They're charismatic and often take charge in various situations.",
+      "Generosity": "Leo is generous, both with their time and resources. They enjoy sharing their successes and making those around them feel special.",
+      "Creativity": "Many Leos have a creative streak. They enjoy expressing themselves through various artistic endeavors and often have a flair for drama.",
+      "Loyalty": "Leo is fiercely loyal to their friends and loved ones. They stand by those they care about, even in challenging times."
+    },
+    "negatives": {
+      "Arrogance": "Leo's confidence can sometimes come across as arrogance. They may believe they know what's best, which can be off-putting to others.",
+      "Stubbornness": "Leo can be stubborn, particularly when they believe they're right. They might resist changing their minds or accepting alternative viewpoints.",
+      "Ego": "Leo's desire for recognition can sometimes feed their ego. They may seek validation and admiration from others, which could lead to self-centered behavior.",
+      "Impulsiveness": "Leo can act on impulse, which may lead to hasty decisions without thoroughly considering the consequences.",
+      "Drama": "Leo's love for the dramatic can sometimes lead to unnecessary conflicts or attention-seeking behavior."
+    },
+    "description": "Leo is the fifth sign of the zodiac, symbolized by the Lion. People born between July 23 and August 22 fall under this sign. Leo is a Fire sign, and it is ruled by the Sun, representing qualities such as creativity, passion, and a radiant personality."
   },
   {
     "name": "Virgo",
@@ -103,10 +157,23 @@
       "P",
       "THA"
     ],
-    "startDate": "",
-    "endDate": "",
-    "positives": {},
-    "negatives": {}
+    "startDate": "august 23",
+    "endDate": "september 22",
+    "positives": {
+      "Practicality": "Virgo individuals are highly practical and grounded. They have a knack for finding efficient solutions to problems and excel in tasks that require attention to detail.",
+      "Analytical": "Virgo's analytical mind allows them to dissect complex issues and find patterns. They're great at critical thinking and often offer valuable insights.",
+      "Hardworking": "Virgo has a strong work ethic. They're diligent and committed to their tasks, often striving for perfection in their endeavors.",
+      "Reliability": "Virgo is known for their reliability. They take their commitments seriously and are usually the ones you can count on to get the job done.",
+      "Helpful": "Virgo has a nurturing side and enjoys helping others. They're often the ones offering practical assistance and advice to friends and loved ones."
+    },
+    "negatives": {
+      "Overcritical": "Virgo can be overly critical, both of themselves and others. This perfectionist tendency can sometimes lead to unnecessary stress or tension.",
+      "Worry-prone": "Virgo's analytical mind can make them prone to overthinking and worrying about small details, leading to stress or anxiety.",
+      "Inflexibility": "Virgo may become stuck in routines and resistant to change, especially if they believe their methods are the most efficient.",
+      "Judgmental": "Virgo individuals might have high standards and can sometimes be judgmental if they feel others aren't meeting those standards.",
+      "Overworking": "Their strong work ethic can lead to overworking, neglecting self-care, or failing to find a balance between work and relaxation."
+    },
+    "description": "Virgo is the sixth sign of the zodiac, symbolized by the Virgin. People born between August 23 and September 22 fall under this sign. Virgo is an Earth sign, and it is ruled by Mercury, the planet of communication, intellect, and analysis."
   },
   {
     "name": "Libra",
@@ -118,10 +185,23 @@
       "R",
       "T"
     ],
-    "startDate": "",
-    "endDate": "",
-    "positives": {},
-    "negatives": {}
+    "startDate": "September 23",
+    "endDate": "October 22",
+    "positives": {
+      "Diplomacy": "Libra is a natural diplomat. They excel at finding common ground, resolving conflicts, and creating a harmonious atmosphere.",
+      "Fairness": "Libra values fairness and justice. They have a strong sense of right and wrong and often champion causes that promote equality.",
+      "Charm": "Libra individuals possess a natural charm and social grace that makes them pleasant to be around. They're excellent at making connections.",
+      "Relationship-Oriented": "Libra thrives in relationships. They're great at building and maintaining connections, valuing companionship and cooperation.",
+      "Aesthetic Appreciation": "Libra has an eye for beauty and aesthetics. They appreciate art, culture, and the finer things in life."
+    },
+    "negatives": {
+      "Indecisiveness": "Libra's desire for balance and fairness can sometimes lead to indecision, especially when faced with choices that involve complex considerations.",
+      "People-Pleasing": "In their efforts to maintain harmony, Libra might have a tendency to please others, even at the expense of their own needs or opinions.",
+      "Avoidance": "Libra may shy away from conflict, preferring to sweep issues under the rug rather than confront them directly.",
+      "Superficiality": "While Libra appreciates beauty, they might sometimes come across as superficial, especially if they prioritize appearance over substance.",
+      "Dependency": "Libra's strong focus on relationships might lead them to depend on others for validation or decision-making, making them vulnerable to manipulation."
+    },
+    "description": "Libra is the seventh sign of the zodiac, symbolized by the Scales. People born between September 23 and October 22 fall under this sign. Libra is an Air sign, and it is ruled by Venus, the planet of love, beauty, harmony, and relationships."
   },
   {
     "name": "Scorpio",
@@ -133,10 +213,23 @@
       "N",
       "Y"
     ],
-    "startDate": "",
-    "endDate": "",
-    "positives": {},
-    "negatives": {}
+    "startDate": "October 23",
+    "endDate": "November 21",
+    "positives": {
+      "Passion": "Scorpio individuals possess an intense and passionate nature. They approach life with a fervor that's hard to match.",
+      "Determination": "Scorpio is highly determined and resilient. When they set their sights on a goal, they're willing to overcome obstacles and challenges to achieve it.",
+      "Resourcefulness": "Scorpio is resourceful and can handle complex situations. They're often great problem-solvers and can find creative solutions.",
+      "Depth": "Scorpio has a deep, insightful nature. They're curious about the mysteries of life, constantly seeking to understand the hidden truths.",
+      "Loyalty": "Scorpio is fiercely loyal to their loved ones. They value strong, lasting relationships and are often the ones you can rely on in times of need."
+    },
+    "negatives": {
+      "Jealousy": "Scorpio individuals can be prone to jealousy and possessiveness, especially in relationships where they feel deeply connected.",
+      "Stubbornness": "Scorpio's determination can sometimes border on stubbornness. They may have a hard time letting go of certain viewpoints or grudges.",
+      "Intensity": "While their passion is a positive trait, it can sometimes become overwhelming, leading to conflicts or emotional turmoil.",
+      "Secretiveness": "Scorpio can be secretive, often guarding their emotions and thoughts. This secretive nature might lead to misunderstandings or mistrust.",
+      "Control Issues": "Scorpio might have a desire for control, which can lead to power struggles in relationships or situations."
+    },
+    "description": "Scorpio is the eighth sign of the zodiac, symbolized by the Scorpion. People born between October 23 and November 21 fall under this sign. Scorpio is a Water sign, and it is ruled by Pluto, the planet associated with transformation, intensity, and depth."
   },
   {
     "name": "Saggitarius",
@@ -149,10 +242,23 @@
       "F",
       "DH"
     ],
-    "startDate": "",
-    "endDate": "",
-    "positives": {},
-    "negatives": {}
+    "startDate": "November 22",
+    "endDate": "December 21",
+    "positives": {
+      "Adventurous": "Sagittarius individuals have a strong sense of adventure. They love exploring new places, ideas, and experiences.",
+      "Optimism": "Sagittarius has a naturally optimistic outlook on life. They see possibilities even in challenging situations and often uplift those around them.",
+      "Open-Minded": "Sagittarius is open to new perspectives and ideas. They enjoy learning from different cultures and are usually non-judgmental.",
+      "Intellectual": "Many Sagittarians are intellectually inclined. They're curious and enjoy expanding their knowledge through learning and exploration.",
+      "Honesty": "Sagittarius values honesty and truth. They're straightforward and often speak their minds, even if it means discussing difficult topics."
+    },
+    "negatives": {
+      "Impulsiveness": "Sagittarius can be impulsive, sometimes making decisions without considering the consequences or thinking things through.",
+      "Restlessness": "Their love for adventure can sometimes lead to restlessness, making it challenging for them to stay in one place for extended periods.",
+      "Bluntness": "Sagittarius' honesty can sometimes come across as bluntness. They may unintentionally hurt feelings with their straightforwardness.",
+      "Lack of Patience": "Sagittarius individuals might lack patience, especially when dealing with tedious tasks or slow-moving situations.",
+      "Commitment Issues": "Due to their desire for freedom, some Sagittarians may struggle with commitment, whether in relationships or long-term projects."
+    },
+    "description": "Sagittarius is the ninth sign of the zodiac, symbolized by the Archer or Centaur. People born between November 22 and December 21 fall under this sign. Sagittarius is a Fire sign, and it is ruled by Jupiter, the planet of expansion, abundance, and higher knowledge."
   },
   {
     "name": "Capricorn",
@@ -164,10 +270,23 @@
       "KH",
       "J"
     ],
-    "startDate": "",
-    "endDate": "",
-    "positives": {},
-    "negatives": {}
+    "startDate": "December 22",
+    "endDate": "January 19",
+    "positives": {
+      "Ambition": "Capricorn individuals are highly ambitious. They're driven to succeed and often set high goals for themselves.",
+      "Practicality": "Capricorn has a practical and realistic approach to life. They're excellent at making plans and organizing tasks efficiently.",
+      "Discipline": "Capricorn possesses a strong sense of discipline and responsibility. They're often reliable and can handle tasks that require commitment.",
+      "Steadfastness": "Capricorn is steadfast and determined. They're willing to put in the hard work necessary to achieve their objectives.",
+      "Reliability": "Capricorn individuals are dependable and trustworthy. They take their commitments seriously and follow through on their promises."
+    },
+    "negatives": {
+      "Reserved": "Capricorn individuals can be reserved, making it challenging for them to express their emotions openly. This might sometimes create barriers in relationships.",
+      "Pessimism": "Their practical nature can sometimes border on pessimism, especially when they focus on potential challenges or obstacles.",
+      "Stubbornness": "Capricorn can be stubborn, especially when they believe their methods or viewpoints are the most effective.",
+      "Workaholic Tendencies": "Capricorn's strong work ethic can sometimes lead to overworking, neglecting personal time, or finding it challenging to relax.",
+      "Risk Aversion": "Capricorn tends to be cautious, often preferring to stay in their comfort zone rather than taking big risks."
+    },
+    "description": "Capricorn is the tenth sign of the zodiac, symbolized by the Goat with a fish tail. People born between December 22 and January 19 fall under this sign. Capricorn is an Earth sign, and it is ruled by Saturn, the planet of discipline, responsibility, and structure."
   },
   {
     "name": "Aquarius",
@@ -180,10 +299,23 @@
       "S",
       "Sh"
     ],
-    "startDate": "",
-    "endDate": "",
-    "positives": {},
-    "negatives": {}
+    "startDate": "January 20",
+    "endDate": "February 18",
+    "positives": {
+      "Originality": "Aquarius individuals are highly original thinkers. They often have unique ideas and enjoy expressing their creativity in innovative ways.",
+      "Humanitarian Values": "Aquarius values equality and social justice. They're often drawn to causes that promote the well-being of humanity.",
+      "Intellect": "Many Aquarians have a strong intellect. They enjoy intellectual pursuits, engaging in meaningful conversations, and exploring new ideas.",
+      "Independence": "Aquarius values independence and freedom. They often have a unique way of viewing the world and prefer to carve their own path.",
+      "Open-Mindedness": "Aquarius is open to new perspectives and ideas. They're usually non-conformist, willing to question norms and challenge the status quo."
+    },
+    "negatives": {
+      "Detachment": "Aquarius can sometimes come across as emotionally distant or detached, especially when they're focused on abstract ideas or causes.",
+      "Rebellion": "While their non-conformist nature is a strength, it can sometimes lead to unnecessary rebellion or contrarian behavior.",
+      "Stubbornness": "Aquarius individuals can be stubborn, especially when it comes to defending their beliefs or ideas.",
+      "Impersonal": "Their focus on the bigger picture might make them seem impersonal or uninterested in personal matters or emotions.",
+      "Difficulty with Tradition": "Aquarius often challenges traditional norms, which can occasionally lead to conflicts, particularly in more conservative environments."
+    },
+    "description": "Aquarius is the eleventh sign of the zodiac, symbolized by the Water Bearer. People born between January 20 and February 18 fall under this sign. Aquarius is an Air sign, and it is traditionally ruled by Saturn (traditional ruler) and Uranus (modern ruler), making Aquarius a unique blend of traditionalism and innovation."
   },
   {
     "name": "Pisces",
@@ -197,9 +329,22 @@
       "Z",
       "TH"
     ],
-    "startDate": "",
-    "endDate": "",
-    "positives": {},
-    "negatives": {}
+    "startDate": "February 19",
+    "endDate": "March 20",
+    "positives": {
+      "Empathy": "Pisces individuals are highly empathetic. They can intuitively understand and connect with the emotions of others.",
+      "Creativity": "Many Pisceans possess a strong creative streak. They excel in artistic and imaginative pursuits, expressing themselves through various mediums.",
+      "Compassion": "Pisces values compassion and kindness. They're often the ones who go out of their way to help those in need.",
+      "Intuition": "Pisces has a strong intuitive sense. They can pick up on subtle energies and have a knack for understanding things beyond the surface.",
+      "Spirituality": "Pisces often has a deep spiritual connection. They're drawn to matters of the soul and are open to exploring spiritual and mystical realms."
+    },
+    "negatives": {
+      "Sensitivity": "Pisces can be highly sensitive, which can sometimes make them susceptible to being overwhelmed by emotions or external influences.",
+      "Escapism": "Due to their sensitivity, Pisces individuals might sometimes resort to escapism, using various methods to avoid facing reality.",
+      "Indecisiveness": "Pisces' dual nature can lead to indecision, as they may struggle to choose between conflicting options or emotions.",
+      "Boundaries": "Pisces might have difficulty setting and maintaining boundaries, often sacrificing their own needs for the sake of others.",
+      "Idealism": "While their idealism can be a strength, it can sometimes lead to unrealistic expectations or disappointments when reality falls short."
+    },
+    "description": "Pisces is the twelfth sign of the zodiac, symbolized by the Fish. People born between February 19 and March 20 fall under this sign. Pisces is a Water sign, and it is traditionally ruled by Jupiter (traditional ruler) and Neptune (modern ruler), giving Pisces a deep sense of intuition, creativity, and sensitivity."
   }
 ]
