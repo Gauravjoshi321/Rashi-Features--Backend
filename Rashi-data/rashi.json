@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Aries",
+    "image": [
+      "aries-1.jpeg",
+      "aries-2.jpeg"
+    ],
+    "nameLetter": [
+      "A",
+      "L",
+      "E",
+      "I",
+      "O"
+    ],
+    "startDate": "march 21",
+    "endDate": "april 20",
+    "positives": {
+      "Leadership": "Aries are natural leaders. They take charge of situations, inspire others, and have the ability to rally people around a common goal.",
+      "Energetic": "Their high energy levels are infectious. Aries bring enthusiasm and excitement to whatever they do, making them great motivators.",
+      "Courageous": "Aries faces challenges head-on. Their fearlessness allows them to take risks and tackle difficult situations, inspiring those around them to be brave as well.",
+      "Passionate": "Aries' passion is contagious. Whether it's in their work, relationships, or hobbies, they invest themselves wholeheartedly, bringing intensity to every aspect of their lives.",
+      "Innovative": "Aries is known for thinking outside the box. They're not afraid to explore new ideas, which often leads to innovative solutions and creative endeavors."
+    },
+    "negatives": {
+      "Impulsiveness": "Aries can act on impulse without thoroughly considering the consequences. This impulsive nature might lead to hasty decisions that they later regret.",
+      "Impatience": "Aries individuals often want things to happen quickly, which can lead to frustration when things don't go their way or progress takes longer than expected.",
+      "Competitiveness": "While competition can be positive, excessive competitiveness might strain relationships or lead to conflicts if not tempered with cooperation and consideration for others.",
+      "Stubbornness": "Aries can be quite stubborn, sticking to their opinions and ideas even when faced with valid counterarguments.",
+      "Short Temper": "Aries' fiery nature can result in a quick temper. They may get easily frustrated or angered, although their anger typically subsides quickly as well."
+    },
+    "description": "Aries is the first sign of the zodiac, and it is represented by the Ram, symbolizing enthusiasm, energy, and a pioneering spirit. Individuals born between March 21 and April 19 fall under this sign."
+  },
+  {
+    "name": "Taurus",
+    "image": [
+      "taurus-1.jpeg",
+      "taurus-2.jpeg"
+    ],
+    "nameLetter": [
+      "B",
+      "V",
+      "U",
+      "W"
+    ],
+    "positives": {},
+    "negatives": {}
+  },
+  {
+    "name": "Gemini",
+    "image": [
+      "gemini-1.jpeg",
+      "gemini-2.jpeg"
+    ],
+    "nameLetter": [
+      "K",
+      "CHH",
+      "GH",
+      "Q",
+      "C"
+    ],
+    "startDate": "",
+    "endDate": "",
+    "positives": {},
+    "negatives": {}
+  },
+  {
+    "name": "Cancer",
+    "image": [
+      "cancer-1.jpeg",
+      "cancer-2.jpeg"
+    ],
+    "nameLetter": [
+      "DD",
+      "H"
+    ],
+    "startDate": "",
+    "endDate": "",
+    "positives": {},
+    "negatives": {}
+  },
+  {
+    "name": "Leo",
+    "image": [
+      "leo-1.jpeg",
+      "leo-2.jpeg"
+    ],
+    "nameLetter": [
+      "M",
+      "TT"
+    ],
+    "startDate": "",
+    "endDate": "",
+    "positives": {},
+    "negatives": {}
+  },
+  {
+    "name": "Virgo",
+    "image": [
+      "virgo-1.jpeg",
+      "virgo-2.jpeg"
+    ],
+    "nameLetter": [
+      "P",
+      "THA"
+    ],
+    "startDate": "",
+    "endDate": "",
+    "positives": {},
+    "negatives": {}
+  },
+  {
+    "name": "Libra",
+    "image": [
+      "libra-1.jpeg",
+      "libra-2.jpeg"
+    ],
+    "nameLetter": [
+      "R",
+      "T"
+    ],
+    "startDate": "",
+    "endDate": "",
+    "positives": {},
+    "negatives": {}
+  },
+  {
+    "name": "Scorpio",
+    "image": [
+      "scorpio-1.jpeg",
+      "scorpio-2.jpeg"
+    ],
+    "nameLetter": [
+      "N",
+      "Y"
+    ],
+    "startDate": "",
+    "endDate": "",
+    "positives": {},
+    "negatives": {}
+  },
+  {
+    "name": "Saggitarius",
+    "image": [
+      "saggitarius-1.jpeg",
+      "saggitarius-2.jpeg"
+    ],
+    "nameLetter": [
+      "BH",
+      "F",
+      "DH"
+    ],
+    "startDate": "",
+    "endDate": "",
+    "positives": {},
+    "negatives": {}
+  },
+  {
+    "name": "Capricorn",
+    "image": [
+      "capricorn-1.jpeg",
+      "capricorn-2.jpeg"
+    ],
+    "nameLetter": [
+      "KH",
+      "J"
+    ],
+    "startDate": "",
+    "endDate": "",
+    "positives": {},
+    "negatives": {}
+  },
+  {
+    "name": "Aquarius",
+    "image": [
+      "aquarius-1.jpeg",
+      "aquarius-2.jpeg"
+    ],
+    "nameLetter": [
+      "G",
+      "S",
+      "Sh"
+    ],
+    "startDate": "",
+    "endDate": "",
+    "positives": {},
+    "negatives": {}
+  },
+  {
+    "name": "Pisces",
+    "image": [
+      "pisces-1.jpeg",
+      "pisces-2.jpeg"
+    ],
+    "nameLetter": [
+      "D",
+      "CH",
+      "Z",
+      "TH"
+    ],
+    "startDate": "",
+    "endDate": "",
+    "positives": {},
+    "negatives": {}
+  }
+]
