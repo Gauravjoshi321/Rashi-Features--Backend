@@ -1,4 +1,5 @@
 const mongoose = require('mongoose');
+const slugify = require('slugify');
 
 const rashiSchema = new mongoose.Schema({
 
@@ -24,8 +25,21 @@ const rashiSchema = new mongoose.Schema({
   },
   startDate: Date,
   endDate: Date,
-  description: String
+  description: String,
+  slug: String
 })
+
+
+// Mongoose Document Middleware
+// pre
+
+rashiSchema.pre('save', function (next) {
+  this.slug = slugify(this.name, { lower: true });
+
+  next();
+})
+
+
 
 const Rashi = mongoose.model('Rashi', rashiSchema);
 

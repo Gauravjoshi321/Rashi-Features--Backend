@@ -54,3 +54,6 @@ else if (process.argv[2] === '--delete') {
   deleteTours();
 }
 
+
+// node Rashi-data/dev-dataImport.js --delete
+// node Rashi-data/dev-dataImport.js --import
