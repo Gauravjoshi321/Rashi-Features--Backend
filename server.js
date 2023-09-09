@@ -1,12 +1,11 @@
-const express = require('express');
 const mongoose = require('mongoose');
-const dotenv = require('dotenv');
-const Rashi = require('./rashiModel');
 
 ///////////////////////////////////////////////
 
+const dotenv = require('dotenv');
 dotenv.config({ path: './config.env' });
-const app = express();
+
+const app = require("./app");
 
 ////////////////////////////////////////
 
@@ -19,31 +18,6 @@ mongoose.connect(process.env.DATABASE, {
   useUnifiedTopology: true
 }).then(con => {
   console.log("DB connection is successfull !");
-})
-
-
-app.get('/', async (req, res) => {
-  const rashis = await Rashi.find();
-
-  res.status(200).json({
-    status: "success",
-    size: rashis.length,
-    data: {
-      rashis
-    }
-  })
-})
-
-app.get('/:Id', async (req, res) => {
-  const id = req.params.Id;
-  const rashi = await Rashi.findById(id);
-
-  res.status(200).json({
-    status: "success",
-    data: {
-      rashi
-    }
-  })
 })
 
 

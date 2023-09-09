@@ -54,4 +54,3 @@ else if (process.argv[2] === '--delete') {
   deleteTours();
 }
 
-console.log(process.argv)
