@@ -3,13 +3,14 @@ const Rashi = require("./rashiModel");
 exports.getAllRashis = async (req, res) => {
   const rashis = await Rashi.find();
 
-  res.status(200).json({
-    status: "success",
-    size: rashis.length,
-    data: {
-      rashis
-    }
-  })
+  // res.status(200).json({
+  //   status: "success",
+  //   size: rashis.length,
+  //   data: {
+  //     rashis
+  //   }
+  // })
+  // res.status(200).render(base)
 }
 
 exports.getRashiById = async (req, res) => {
@@ -22,4 +23,5 @@ exports.getRashiById = async (req, res) => {
       rashi
     }
   })
+
 }

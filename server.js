@@ -1,3 +1,10 @@
+process.on('uncaughtException', err => {
+  console.log(err.name, err.message);
+  console.log('UNHANDLED REJECTION..! SHUTTING DOWN 🥲');
+
+  process.exit(1);
+})
+
 const mongoose = require('mongoose');
 
 ///////////////////////////////////////////////
