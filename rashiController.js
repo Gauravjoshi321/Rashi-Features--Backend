@@ -10,7 +10,7 @@ exports.getAllRashis = async (req, res) => {
   //     rashis
   //   }
   // })
-  // res.status(200).render(base)
+  res.status(200).render("base", { title: "Homepage" })
 }
 
 exports.getRashiById = async (req, res) => {
